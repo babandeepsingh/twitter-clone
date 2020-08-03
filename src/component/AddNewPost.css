@@ -1,0 +1,19 @@
+.chatScreen__input{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    border-bottom: 1px solid lightgray;
+    background-color: white;
+    margin-top: 20px;
+}
+.chatScreen__inputField{
+    flex:1;
+    padding: 10px;
+    border: none;
+}
+.post__inputField{
+    margin: 10px 0px !important;
+}
+.post__button{
+    margin: 10px 0px !important;
+}
